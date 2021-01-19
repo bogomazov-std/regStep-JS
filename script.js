@@ -20,7 +20,5 @@
       formAll[activeStep+1].classList.toggle('hidden')
     }
     activeStep++
-    console.log(activeStep)
   }
-
 }
